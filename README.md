@@ -4,7 +4,17 @@
 - 👨🏻‍💻 I'm looking to find the perfect match where I can be a creative developer 
 - 🤖 Ask me about running local llm's, Javascript and React.
 - ✉️ You can reach me by the e-mail on my profile.
-- 🍫 Fun facts: I used to be a (vegan) candy and chocolate maker. 
+- 🍫 Fun facts: I used to be a (vegan) candy and chocolate maker.
+
+  ## Tech stack
+  - HTML 5
+  - Javascript
+  - Typescript
+  - CSS
+ 
+  ## OS 
+  - Mac
+  - Linux
   
 <!--
 **jonashoekman-art/jonashoekman-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

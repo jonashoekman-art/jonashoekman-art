@@ -1,7 +1,7 @@
 ## Hi there 👋 Some information about me
 - 🍀 I'm currently working to become a software engineer with a focus on open source and AI.
-- ⏭️ I'm currently learning next.js with Supabase.
-- 👨🏻‍💻 I'm looking to find the perfect match where I can be a creative developer 
+- ⏭️ I'm currently learning Next.js with Supabase while working on a new project with other students.
+- 👨🏻‍💻 I'm looking to find the perfect match where I can be the creative developer that 
 - 🤖 Ask me about running local llm's, Javascript and React.
 - ✉️ You can reach me by the e-mail on my profile.
 - 🍫 Fun facts: I used to be a (vegan) candy and chocolate maker.

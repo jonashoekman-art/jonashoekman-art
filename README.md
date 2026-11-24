@@ -1,6 +1,6 @@
 ## Hi there 👋 Some information about me
 - 🍀 I'm currently working to become a software engineer with a focus on open source and AI.
-- ⏭️ I'm currently working on an existing project with other students
+- ⏭️ I'm currently working on an exiting project with other students
 - 👨🏻‍💻 I'm looking to find the perfect match where I can be the creative developer that helps with challenges and make the world more fun.
 - 🤖 Ask me about running local llm's, Javascript and React.
 - ✉️ You can reach me by the e-mail on my profile.
